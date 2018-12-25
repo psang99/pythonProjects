@@ -8,3 +8,6 @@ The automate login script automates login to 3 websites namely Gmail,Facebook an
 
 2.mapIt
 If we have copied the address and then we want to search the address on google maps without manually opening it.How can we achieve this goal? Using this script we can get the contents from the clip board and search the address on google maps.
+
+3.play2048 
+play2048 is a script playing the game until the game is over based on some specific moves.
