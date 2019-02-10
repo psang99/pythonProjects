@@ -11,3 +11,6 @@ If we have copied the address and then we want to search the address on google m
 
 3.play2048 
 play2048 is a script playing the game until the game is over based on some specific moves.
+
+4.downloadCodingBatAnswers
+downloadCodingBatAnswers is a python script developed using selenium. It automatically downloads the solution from the website and saves on the local system.
