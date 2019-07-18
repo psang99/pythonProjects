@@ -14,3 +14,6 @@ play2048 is a script playing the game until the game is over based on some speci
 
 4.#downloadCodingBatAnswers
 downloadCodingBatAnswers is a python script developed using selenium. It automatically downloads the solution from the website and saves on the local system.
+
+5.#parser
+A small Python script to parse a log file and output data for the matched regular expression.
